@@ -9,7 +9,7 @@ clear path;
 % Changed default plot settings
 % scrsz = get(groot,'ScreenSize');
 % set(gcf,'Position',[1 scrsz(4) scrsz(3) scrsz(4)])
-set(groot,'defaultFigurePosition',[320 150 800 600])
+set(groot,'defaultFigurePosition',[70 50 1300 800])
 set(groot,'defaultTextInterpreter','latex')
 set(groot,'defaultLegendInterpreter','latex')
 set(groot,'defaultAxesFontSize',20)
