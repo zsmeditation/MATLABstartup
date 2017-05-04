@@ -12,6 +12,6 @@ clear path;
 set(groot,'defaultFigurePosition',[70 50 1300 800])
 set(groot,'defaultTextInterpreter','latex')
 set(groot,'defaultLegendInterpreter','latex')
-set(groot,'defaultAxesFontSize',20)
+set(groot,'defaultAxesFontSize',25)
 set(groot,'defaultLineLineWidth',0.5)
 set(groot,'defaultLineMarkerSize',8)
