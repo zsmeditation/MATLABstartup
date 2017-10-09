@@ -14,3 +14,4 @@ set(groot,'defaultLegendInterpreter','latex')
 set(groot,'defaultAxesFontSize',25)
 set(groot,'defaultLineLineWidth',2)
 set(groot,'defaultLineMarkerSize',8)
+clear scrsz;
